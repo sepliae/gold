@@ -1,5 +1,5 @@
 /**
- * @name gold
+ * @name goldies
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://e1.fuel.com/desktop-wallpaper/433/831/desktop-wallpaper-black-and-gold-black-gold-thumbnail.jpg');
+  --user-modal-image: url('https://e1.pxfuel.com/desktop-wallpaper/433/831/desktop-wallpaper-black-and-gold-black-gold-thumbnail.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -57,8 +57,8 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #FFFFFF;
-  --channel-color: rgb(255,255,255,1);
-  --muted-color: rgb(255,255,255,1);
+  --channel-color: rgb(157,157,157,1);
+  --muted-color: rgb(117,117,117,1);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
